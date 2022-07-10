@@ -1,1 +1,1 @@
-Basics about sheel
+shell basic commands
